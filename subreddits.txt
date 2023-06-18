@@ -1,0 +1,15 @@
+Subreddit List File
+
+This file contains a list of subreddits that the Reddit bot will monitor and analyze using the ChatGPT API. Each line in the file represents a subreddit that the bot will target. Make sure to follow the format below:
+
+- Each subreddit should be written in the format "r/subreddit_name" without the quotes.
+- Empty lines and lines starting with a hash symbol (#) will be ignored.
+
+Example:
+r/subreddit1
+r/subreddit2
+r/subreddit3
+
+You can add or remove subreddits from this file based on your preferences. Remember to save the file after making any changes.
+
+Note: Ensure that the subreddits you choose comply with Reddit's guidelines and rules.
