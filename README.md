@@ -48,4 +48,9 @@
 
   <h2>Usage</h2>
   <p>To run the bot, execute the following command in your terminal:</p>
-  <pre><code>python reddit_bot.py</code
+  <pre><code>python reddit_bot.py</code></pre>
+
+  <h2>License</h2>
+  <p>This project is licensed under the terms of the MIT License. See the <a href="LICENSE">LICENSE</a> file for more information.</p>
+</body>
+</html>
